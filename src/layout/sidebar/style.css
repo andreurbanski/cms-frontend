@@ -1,0 +1,25 @@
+.sidebar {
+    width: 21%;
+    background-color: #777;
+    position: fixed;
+    top: 40px;
+    bottom: 0;
+
+}
+.sidebar-menu ul{
+    list-style: none;
+}
+
+.sidebar-menu li{
+    margin: 3px;
+}
+
+.sidebar-menu-title {
+    font-weight: 600;
+    color: #CCC;
+}
+
+.sidebar-menu-item {
+    font-weight: 500;
+    color: #EEE;
+}

@@ -1,0 +1,6 @@
+@media (min-width: 768px) { /* Adjust based on when you want the desktop layout to kick in */
+    .content-area {
+      margin-left: 250px; /* Same as the sidebar width */
+    }
+  }
+  
